@@ -113,14 +113,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:047814_0000_1024ADDBB9AC30D0"/>
-            <pb facs="tcp:047814_0001_102493FD25ED9458"/>
+            <pb facs="unknown:047814_0000_1024ADDBB9AC30D0"/>
+            <pb facs="unknown:047814_0001_102493FD25ED9458"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:047814_0002_102493FF64BEE410"/>
+            <pb facs="unknown:047814_0002_102493FF64BEE410"/>
             <p>INSTRUCTIVE AND ENTERTAINING EMBLEMS <hi>On various Subjects.</hi>
             </p>
             <p>
@@ -132,21 +132,21 @@
       </front>
       <body>
          <div type="sample_alphabet">
-            <pb facs="tcp:047814_0003_1024AC83785BDF28"/>
+            <pb facs="unknown:047814_0003_1024AC83785BDF28"/>
             <p>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
             <p>a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp; ct ſb ſk ſt ſſi ffi <gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>l ſl fl ff ſſ ſi fi , ; : . - ! ? '</p>
          </div>
          <div n="1" type="emblem">
-            <pb facs="tcp:047814_0004_1024AC859A19A400"/>
+            <pb facs="unknown:047814_0004_1024AC859A19A400"/>
             <head>OF EDUCATION. <figure/> Emblem I.</head>
             <lg>
                <l>SEE in what evil plight yon vine appears,</l>
                <l>nor ſpread<g ref="char:EOLhyphen"/>ing leaves, nor purple cluster bears:—</l>
                <l>But if around the elm her arm she throws,</l>
                <l>or by ſome friendly prop ſupported 
-<pb n="6" facs="tcp:047814_0005_1024AC8837364AE8"/> 
+<pb n="6" facs="unknown:047814_0005_1024AC8837364AE8"/> 
 grows,</l>
                <l>ſoon ſhall the stem be clad with foliage green,</l>
                <l>and clustered grapes beneath the leaves be ſeen.—</l>
@@ -158,7 +158,7 @@ grows,</l>
             <p>There cannot be a truer em<g ref="char:EOLhyphen"/>blem of the state of infancy, than in this of the vine, which, when it is reared with care, rewards us with its luſcious fruit; but, if neglected, pre<g ref="char:EOLhyphen"/>ſents us with nothing but leaves and stalks.</p>
          </div>
          <div n="2" type="emblem">
-            <pb n="7" facs="tcp:047814_0006_1024AC8A39AFDA50"/>
+            <pb n="7" facs="unknown:047814_0006_1024AC8A39AFDA50"/>
             <head>Induſtry. <figure/> Emblem II.</head>
             <lg>
                <l>OBSERVE, thou ſluggard, but the little ant,</l>
@@ -172,7 +172,7 @@ grows,</l>
                      <desc>〈◊〉</desc>
                   </gap> again,</l>
                <l>ſhe bites the end of
-<pb n="8" facs="tcp:047814_0007_1024AC8BE6BEEE18"/>
+<pb n="8" facs="unknown:047814_0007_1024AC8BE6BEEE18"/>
 every little grain.</l>
                <l>Behold each inſect, how their deeds appear,</l>
                <l>what marks of thought, con<g ref="char:EOLhyphen"/>trivance, hope and fear.</l>
@@ -180,7 +180,7 @@ every little grain.</l>
             <p>When we behold but the little, ſeemingly inſignificant ant, what a moral and instruc<g ref="char:EOLhyphen"/>tive leſſon may be drawn from it, in that excellent proverb, "Employ well the hour pre<g ref="char:EOLhyphen"/>ſent." Idleneſs is the cauſe of many evils; it brings both mi<g ref="char:EOLhyphen"/>ſery and want; it destroys the health of body, and the peace of mind. But industry, beſides giving us plenty, gives us health, without which there can be no ſolid enjoyment.</p>
          </div>
          <div n="3" type="emblem">
-            <pb n="9" facs="tcp:047814_0008_1024AC8EEED43090"/>
+            <pb n="9" facs="unknown:047814_0008_1024AC8EEED43090"/>
             <head>Improvement. <figure/> Emblem III.</head>
             <lg>
                <l>SEE how the little bee em<g ref="char:EOLhyphen"/>ploys her hours,</l>
@@ -189,7 +189,7 @@ every little grain.</l>
                <l>but yields her honey to reward her cares.</l>
                <l>Learn from the bee, from each event to find,</l>
                <l>ſome
-<pb n="10" facs="tcp:047814_0009_1024AC909A1936A0"/>
+<pb n="10" facs="unknown:047814_0009_1024AC909A1936A0"/>
 hint of uſe or profit to your mind.</l>
                <l>Nothing ſo ſmall but you may draw from thence</l>
                <l>improvement for your virtue or your ſenſe.</l>
@@ -199,7 +199,7 @@ hint of uſe or profit to your mind.</l>
             <p>The bee, like unto the ant, is one of thoſe little inſects that teaches us to provide in due time, what we may have occa<g ref="char:EOLhyphen"/>ſion for at a future period.—The bee is ever buſy in the ſummer ſeaſon, and there is no flower but yields ſomething for their winter's ſupport. Fol<g ref="char:EOLhyphen"/>low her example.</p>
          </div>
          <div n="4" type="emblem">
-            <pb n="11" facs="tcp:047814_0010_1024AC92F37EE838"/>
+            <pb n="11" facs="unknown:047814_0010_1024AC92F37EE838"/>
             <head>Time. <figure/>
             </head>
             <lg>
@@ -214,7 +214,7 @@ hint of uſe or profit to your mind.</l>
             </lg>
          </div>
          <div n="5" type="emblem">
-            <pb n="12" facs="tcp:047814_0011_1024AC9567C25840"/>
+            <pb n="12" facs="unknown:047814_0011_1024AC9567C25840"/>
             <head>Inordinate Deſire. <figure/> Emblem V.</head>
             <lg>
                <l>THE buſy inſect hovering round the light,</l>
@@ -223,7 +223,7 @@ hint of uſe or profit to your mind.</l>
                <l>till caught within the ſcorching blaze it dies.</l>
                <l>Ah! ſilly thing, the ſource of all thy joy,</l>
                <l>a
-<pb n="13" facs="tcp:047814_0012_1024AC978E75D7E0"/>
+<pb n="13" facs="unknown:047814_0012_1024AC978E75D7E0"/>
 beauteous miſchief, ſhines but to destroy.—</l>
                <l>Even ſo the youth who burns with wild deſires,</l>
                <l>oft falls the victim of un<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -243,7 +243,7 @@ beauteous miſchief, ſhines but to destroy.—</l>
             </lg>
          </div>
          <div n="6" type="emblem">
-            <pb n="14" facs="tcp:047814_0013_1024AC99B1CC8CE8"/>
+            <pb n="14" facs="unknown:047814_0013_1024AC99B1CC8CE8"/>
             <head>Vain Purſuits. <figure/> Emblem VI.</head>
             <lg>
                <l>FROM ſultry noon till night's dull ſhades deſcend,</l>
@@ -252,7 +252,7 @@ beauteous miſchief, ſhines but to destroy.—</l>
                <l>and pleas'd at last obtains the gaudy prize;</l>
                <l>but whilst its beauties he ſur<g ref="char:EOLhyphen"/>veys with joy,</l>
                <l>thoſe hands
-<pb n="15" facs="tcp:047814_0014_1024AC9B61C04240"/>
+<pb n="15" facs="unknown:047814_0014_1024AC9B61C04240"/>
 which ſeize them fatally deſ<g ref="char:EOLhyphen"/>troy.—</l>
                <l>Even ſo thoſe pleaſures which we ſigh to gain,</l>
                <l>and ſa<g ref="char:EOLhyphen"/>crifice our quiet to obtain,</l>
@@ -264,7 +264,7 @@ which ſeize them fatally deſ<g ref="char:EOLhyphen"/>troy.—</l>
             <p>This is an apt emblem of the impetuoſity of youth, who with a blind precipitancy pur<g ref="char:EOLhyphen"/>ſues vain pleaſures, that can afford no ſolid enjoyment. Be moderate in the purſuit of pleaſures, and you will then truly enjoy them.</p>
          </div>
          <div n="7" type="emblem">
-            <pb n="16" facs="tcp:047814_0015_1024AC9ED30DAF80"/>
+            <pb n="16" facs="unknown:047814_0015_1024AC9ED30DAF80"/>
             <head>Vain Glory. <figure/> Emblem VII.</head>
             <lg>
                <l>BEHOLD the ſilly bird, how proudly vain</l>
@@ -273,7 +273,7 @@ which ſeize them fatally deſ<g ref="char:EOLhyphen"/>troy.—</l>
                <l>by outward ſhow alone is worth ſupplied;</l>
                <l>for no har<g ref="char:EOLhyphen"/>monious ſound, no cheerful note,</l>
                <l>muſt ever iſſue from that
-<pb n="17" facs="tcp:047814_0016_1024ACA08412E860"/>
+<pb n="17" facs="unknown:047814_0016_1024ACA08412E860"/>
 hideous throat;</l>
                <l>nor of the hundred eyes that grace his tail,</l>
                <l>can one for ſight, or real uſe avail.—</l>
@@ -285,7 +285,7 @@ hideous throat;</l>
             <p>Like the proud peacock is the ſon of vanity; and ſurely it is more ridiculous in a ration<g ref="char:EOLhyphen"/>al creature to indulge this pride than in an unreaſonable ani<g ref="char:EOLhyphen"/>mal. How worthleſs is man, however finely clad, without mental qualifications! A fine houſe unfurniſhed is but an un<g ref="char:EOLhyphen"/>comfortable dwelling.</p>
          </div>
          <div n="8" type="emblem">
-            <pb n="18" facs="tcp:047814_0017_1024ACA2B66429F0"/>
+            <pb n="18" facs="unknown:047814_0017_1024ACA2B66429F0"/>
             <head>Evil and its Puniſhment. <figure/> Emblem VIII.</head>
             <lg>
                <l>WHILE the ſweet nightin<g ref="char:EOLhyphen"/>gale chaunts forth her lays,</l>
@@ -294,7 +294,7 @@ hideous throat;</l>
                <l>and all the mother's comfort to deſ<g ref="char:EOLhyphen"/>troy;</l>
                <l>when lo! the faithleſs branch in pieces broke,</l>
                <l>his
-<pb n="19" facs="tcp:047814_0018_1024ACA4691A79E8"/>
+<pb n="19" facs="unknown:047814_0018_1024ACA4691A79E8"/>
 limbs are ſhattered with a dreadful stroke.—</l>
                <l>So when we ſeek ſome dear prized joy to gain,</l>
                <l>and buy our pleaſure with another's pain,</l>
@@ -304,7 +304,7 @@ limbs are ſhattered with a dreadful stroke.—</l>
             <p>This is a just emblem of thoſe who ſeek their own good at the expence of that of others, and often meet with a bitter diſappointment, and lament too late the evils which themſelves have occaſioned. Hence learn the danger of fraud, lest, like the boy in the emblem, you prove the author of your own destruction.</p>
          </div>
          <div n="9" type="emblem">
-            <pb n="20" facs="tcp:047814_0019_1024ACA6337562B8"/>
+            <pb n="20" facs="unknown:047814_0019_1024ACA6337562B8"/>
             <head>Tyranny and Oppreſſion. <figure/> Emblem IX.</head>
             <lg>
                <l>LO! the fierce lion, how he lordly stalks,</l>
@@ -313,7 +313,7 @@ limbs are ſhattered with a dreadful stroke.—</l>
                <l>and clears the deſert with his rowling eye.</l>
                <l>By the pale moon he takes his destin'd round,</l>
                <l>and laſh'd his ſide, and
-<pb n="21" facs="tcp:047814_0020_1024ACA970887428"/>
+<pb n="21" facs="unknown:047814_0020_1024ACA970887428"/>
 furious tears the ground,</l>
                <l>while ſhrieks and dying groans the deſert fill,</l>
                <l>and rage and rend; their ravenous jaws distil</l>
@@ -325,7 +325,7 @@ furious tears the ground,</l>
             <p>The lion is a fit emblem of tyranny; his royalty conſiſts in cruelty, ſtrength, and pow<g ref="char:EOLhyphen"/>er; in raiſing terror, inſtead of confidence and love; in be<g ref="char:EOLhyphen"/>ing a deſtroyer, and not a ſafe<g ref="char:EOLhyphen"/>guard; hence he is called the ſovereign of the forreſt.</p>
          </div>
          <div n="10" type="emblem">
-            <pb n="22" facs="tcp:047814_0021_1024ACAB99BF33A8"/>
+            <pb n="22" facs="unknown:047814_0021_1024ACAB99BF33A8"/>
             <head>Temptation. <figure/> Emblem X.</head>
             <lg>
                <l>THE ſilly fiſh, while playing in the brook,</l>
@@ -334,7 +334,7 @@ furious tears the ground,</l>
                <l>drawn panting forth to breathe the upper air.</l>
                <l>Caught by his folly—in the glittering bait</l>
                <l>he meets his ruin,
-<pb n="23" facs="tcp:047814_0022_1024ACADDA5610C0"/>
+<pb n="23" facs="unknown:047814_0022_1024ACADDA5610C0"/>
 and ſubmits to fate.—</l>
                <l>Avoid baſe bribes—The tempting lure diſplay'd,</l>
                <l>if once you taſte you periſh ſelf-betray'd.</l>
@@ -344,7 +344,7 @@ and ſubmits to fate.—</l>
             <p>What a fit emblem is this of thoſe heedleſs perſons who ſuf<g ref="char:EOLhyphen"/>fer themſelves to be deluded by glittering temptations, or drawn into ſnares by the arti<g ref="char:EOLhyphen"/>fices of the vicious and deſign<g ref="char:EOLhyphen"/>ing! The offers of ſome men are dangerous; let the charac<g ref="char:EOLhyphen"/>ter of the giver, and the con<g ref="char:EOLhyphen"/>ditions he is likely to exact be well conſidered before you re<g ref="char:EOLhyphen"/>ceive the gift.</p>
          </div>
          <div n="11" type="emblem">
-            <pb n="24" facs="tcp:047814_0023_1024ACB02EA934A8"/>
+            <pb n="24" facs="unknown:047814_0023_1024ACB02EA934A8"/>
             <head>Brotherly Love. <figure/> Emblem XI.</head>
             <lg>
                <l>LO! here the valiant twins whoſe glorious name</l>
@@ -353,7 +353,7 @@ and ſubmits to fate.—</l>
                <l>loving in life, and not in death disjoin'd.—</l>
                <l>For feats of arms through all the world renown'd,</l>
                <l>for friend<g ref="char:EOLhyphen"/>ſhip
-<pb n="25" facs="tcp:047814_0024_1024ACB2CDECFCB8"/>
+<pb n="25" facs="unknown:047814_0024_1024ACB2CDECFCB8"/>
 more, the brother chiefs were found:</l>
                <l>Through life's whole race one common fate they ſhare,</l>
                <l>alike united, or in peace or war.—</l>
@@ -363,7 +363,7 @@ more, the brother chiefs were found:</l>
             <p>By this emblem we are in<g ref="char:EOLhyphen"/>formed that man was by na<g ref="char:EOLhyphen"/>ture framed for ſociety, and that there can be no happineſs without the benefit of friend<g ref="char:EOLhyphen"/>ſhip. By this we mutually ſup<g ref="char:EOLhyphen"/>ply the wants of each other, and enjoy thoſe bleſſings of life, which, without it, we could ſeldom purchaſe.</p>
          </div>
          <div n="12" type="emblem">
-            <pb n="26" facs="tcp:047814_0025_1024ACB4F0F00F98"/>
+            <pb n="26" facs="unknown:047814_0025_1024ACB4F0F00F98"/>
             <head>Fidelity. <figure/> Emblem XII.</head>
             <lg>
                <l>BEHOLD the faithful beaſt reſolv'd to die</l>
@@ -374,7 +374,7 @@ more, the brother chiefs were found:</l>
                   </gap>aith by death.—</l>
                <l>Hence learn fidelity; with grateful mind</l>
                <l>repay the courteous, to
-<pb n="27" facs="tcp:047814_0026_1024ACB6A220DCB8"/>
+<pb n="27" facs="unknown:047814_0026_1024ACB6A220DCB8"/>
 your friends be kind.</l>
                <l>What<g ref="char:EOLhyphen"/>ever fortune on your life at<g ref="char:EOLhyphen"/>tend,</l>
                <l>the beſt of treaſures is a faithful friend.</l>
@@ -383,7 +383,7 @@ your friends be kind.</l>
             <p>Gratitude and fidelity to our friends, are the beſt qualities that can adorn our natue. In this reſpect, the emblem of the dog is a very juſt one, and a good example for man.</p>
          </div>
          <div n="13" type="emblem">
-            <pb n="28" facs="tcp:047814_0027_1024ACBA44F3C2E0"/>
+            <pb n="28" facs="unknown:047814_0027_1024ACBA44F3C2E0"/>
             <head>Heavenly Love. <figure/> Emblem XIII.</head>
             <lg>
                <l>THE tender pelican with ceaſeleſs cares,</l>
@@ -392,20 +392,20 @@ your friends be kind.</l>
                <l>as with her blood, with which her brood ſhe feeds:</l>
                <l>Emblem of heaven's ſupernal graces known</l>
                <l>
-                  <pb n="29" facs="tcp:047814_0028_1024ACBCABC717A0"/>
+                  <pb n="29" facs="unknown:047814_0028_1024ACBCABC717A0"/>
 and parent's love to deareſt children ſhewn.</l>
                <l>To God a<g ref="char:EOLhyphen"/>bove, and to your friends be<g ref="char:EOLhyphen"/>low,</l>
                <l>ſtill let your breaſt with zeal and duty glow;</l>
                <l>much to your parents, more to heaven you owe.</l>
             </lg>
             <p>The pelican is the only bird that feeds her young with her own blood. In this emblem is expreſſed the ſtate of depend<g ref="char:EOLhyphen"/>ence we are in, on the one hand, and the great goodneſs of God on the other, who e<g ref="char:EOLhyphen"/>qually ſupplies our temporal and our ſpiritual wants, and who ſent his only Son to be a propitiation for our ſins, who
-<pb n="30" facs="tcp:047814_0029_1024ACBECF266330"/>
+<pb n="30" facs="unknown:047814_0029_1024ACBECF266330"/>
 for us ſhed his own blood, and by whoſe ſtripes we are healed—The pelican, indeed, grants this ſupply but to her own brood; but the great Author of our ſalvation did this for wicked offenders, he died e<g ref="char:EOLhyphen"/>ven for his greateſt enemies, and bore our ſins, that we might be made righteous, and that we might proceed from grace to grace, till at laſt we are made heirs of his glorious inheritance.</p>
          </div>
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:047814_0030_1024ACC080D224E0"/>
+            <pb facs="unknown:047814_0030_1024ACC080D224E0"/>
             <head>BOOKS for CHILDREN.</head>
             <p>
                <hi>A handſome aſſortment of Books for Children, conſtantly for ſale by</hi> J. Babcock, <hi>near the bridge, Hartford, ten per cent lower, by the quantity, than the imported editions.</hi>
